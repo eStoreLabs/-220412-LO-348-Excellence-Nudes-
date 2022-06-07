@@ -555,7 +555,15 @@ body {
 
   @media screen and (min-width: 768px) {
     .es-kv {
-      
+      &__img{
+        width: 100%;
+        height: 100%;
+        img{
+          width: 120%;
+          height: 100%;
+          margin-left: -150px;
+        }
+      }
     }
     .es-products{
       display: block;
@@ -638,7 +646,15 @@ body {
   }
   @media screen and (min-width: 998px) {
     .es-kv {
-     
+      &__img{
+        width: 100%;
+        height: 100%;
+        img{
+          width: 120%;
+          height: 100%;
+          margin-left: -150px;
+        }
+      }
     }
     .es-products{
       display: block;

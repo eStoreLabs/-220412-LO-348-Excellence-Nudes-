@@ -546,6 +546,15 @@ body {
   max-width: 200px;
 }
 @media screen and (min-width: 768px) {
+  #es-maybelline.es-maybelline .es-kv__img {
+    width: 100%;
+    height: 100%;
+  }
+  #es-maybelline.es-maybelline .es-kv__img img {
+    width: 120%;
+    height: 100%;
+    margin-left: -150px;
+  }
   #es-maybelline.es-maybelline .es-products {
     display: block;
     position: relative;
@@ -612,6 +621,15 @@ body {
   }
 }
 @media screen and (min-width: 998px) {
+  #es-maybelline.es-maybelline .es-kv__img {
+    width: 100%;
+    height: 100%;
+  }
+  #es-maybelline.es-maybelline .es-kv__img img {
+    width: 120%;
+    height: 100%;
+    margin-left: -150px;
+  }
   #es-maybelline.es-maybelline .es-products {
     display: block;
     position: relative;
