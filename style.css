@@ -630,6 +630,9 @@ body {
     height: 100%;
     margin-left: -150px;
   }
+  #es-maybelline.es-maybelline .es-kv__title img {
+    max-width: 400px;
+  }
   #es-maybelline.es-maybelline .es-products {
     display: block;
     position: relative;

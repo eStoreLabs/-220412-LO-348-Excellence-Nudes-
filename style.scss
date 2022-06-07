@@ -655,6 +655,11 @@ body {
           margin-left: -150px;
         }
       }
+      &__title{
+        img{
+          max-width: 400px;
+        }
+      }
     }
     .es-products{
       display: block;
