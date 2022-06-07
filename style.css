@@ -100,7 +100,7 @@ body {
   width: 200%;
 }
 #es-maybelline.es-maybelline .es-kv__title img {
-  max-width: 350px;
+  max-width: 320px;
   padding: 24px;
   margin: 0 24px;
 }
@@ -333,7 +333,7 @@ body {
   font-size: 30px;
   color: #753934;
   text-align: center;
-  padding: 10px;
+  padding: 30px;
 }
 #es-maybelline.es-maybelline .es-video__text {
   color: #753934;
